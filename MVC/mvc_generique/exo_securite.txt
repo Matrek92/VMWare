@@ -1,0 +1,9 @@
+Exercice sécurité :
+
+- Filter_VAR
+- MD5
+- Sha1
+- Injection SQL avec BindVakue et ? et Array de données
+
+- Grain de sel
+- Sauvegarder les mdps anciens et vérifier qu'il ne prend pas de mdp existant.
